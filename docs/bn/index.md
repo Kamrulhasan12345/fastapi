@@ -28,7 +28,7 @@
 
 ---
 
-FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints.
+ফাস্টএপিআই হলো একটি আধুনিক, দ্রুত (উচ্চ-পারফরম্যান্স), স্ট্যান্ডার্ড পাইথন টাইপের ইঙ্গিতগুলির ভিত্তিতে পাইথন 3.6+ সহ এপিআই তৈরির ওয়েব ফ্রেমওয়ার্ক।
 
 The key features are:
 
