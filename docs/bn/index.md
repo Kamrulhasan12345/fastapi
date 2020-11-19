@@ -30,9 +30,9 @@
 
 ফাস্টএপিআই হলো একটি আধুনিক, দ্রুত (উচ্চ-পারফরম্যান্স), স্ট্যান্ডার্ড পাইথন টাইপের ইঙ্গিতগুলির ভিত্তিতে পাইথন 3.6+ সহ এপিআই তৈরির ওয়েব ফ্রেমওয়ার্ক।
 
-The key features are:
+মূল বৈশিষ্ট্যগুলি হলো:
 
-* **Fast**: Very high performance, on par with **NodeJS** and **Go** (thanks to Starlette and Pydantic). [One of the fastest Python frameworks available](#performance).
+* **দ্রুত**: খুব উচ্চতর পারফরম্যান্স, এমনকি **নোডজেএস** and **গো** (স্টারলেট এবং পাইডানটিককে ধন্যবাদ) এর সমানভাবে. [পাইথন ফ্রেমওয়ার্কগুলির মধ্যে একটি দ্রুত উপলব্ধ](#performance).
 
 * **Fast to code**: Increase the speed to develop features by about 200% to 300%. *
 * **Fewer bugs**: Reduce about 40% of human (developer) induced errors. *
