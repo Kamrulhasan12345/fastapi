@@ -58,9 +58,9 @@
 
 <a href="https://fastapi.tiangolo.com/fastapi-people/#sponsors" class="external-link" target="_blank">Other sponsors</a>
 
-## Opinions
+## মতামতসমূহ
 
-"_[...] I'm using **FastAPI** a ton these days. [...] I'm actually planning to use it for all of my team's **ML services at Microsoft**. Some of them are getting integrated into the core **Windows** product and some **Office** products._"
+"_[...] আমি **ফাস্টএপিআই** আজকাল খুব বেশিই ব্যবহার করছি. [...] আসলে আমি এটিকে আমার দলের সকল অর্থাৎ **মাইক্রোসফট এর এমএল সুবিধাদি** এর জন্য ব্যবহারের পরিকল্পনা করছি। Some of them are getting integrated into the core **Windows** product and some **Office** products._"
 
 <div style="text-align: right; margin-right: 10%;">Kabir Khan - <strong>Microsoft</strong> <a href="https://github.com/tiangolo/fastapi/pull/26" target="_blank"><small>(ref)</small></a></div>
 
