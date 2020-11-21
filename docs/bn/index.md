@@ -34,13 +34,13 @@
 
 * **দ্রুত**: খুব উচ্চতর পারফরম্যান্স, এমনকি **নোডজেএস** এবং **গো** (স্টারলেট এবং পাইডানটিককে ধন্যবাদ) এর সমানভাবে. [পাইথন ফ্রেমওয়ার্কগুলির মধ্যে একটি দ্রুত উপলব্ধ](#performance).
 
-* **Fast to code**: Increase the speed to develop features by about 200% to 300%. *
-* **Fewer bugs**: Reduce about 40% of human (developer) induced errors. *
-* **Intuitive**: Great editor support. <abbr title="also known as auto-complete, autocompletion, IntelliSense">Completion</abbr> everywhere. Less time debugging.
-* **Easy**: Designed to be easy to use and learn. Less time reading docs.
-* **Short**: Minimize code duplication. Multiple features from each parameter declaration. Fewer bugs.
-* **Robust**: Get production-ready code. With automatic interactive documentation.
-* **Standards-based**: Based on (and fully compatible with) the open standards for APIs: <a href="https://github.com/OAI/OpenAPI-Specification" class="external-link" target="_blank">OpenAPI</a> (previously known as Swagger) and <a href="https://json-schema.org/" class="external-link" target="_blank">JSON Schema</a>.
+* **কোড করতে দ্রুত**: Increase the speed to develop features by about 200% to 300%. *
+* **কম ত্রুটিযুক্ত**: Reduce about 40% of human (developer) induced errors. *
+* **বুদ্ধিসম্পন্ন**: Great editor support. <abbr title="also known as auto-complete, autocompletion, IntelliSense">Completion</abbr> everywhere. Less time debugging.
+* **সহজ**: Designed to be easy to use and learn. Less time reading docs.
+* **ছোট**: Minimize code duplication. Multiple features from each parameter declaration. Fewer bugs.
+* **জোরালো**: Get production-ready code. With automatic interactive documentation.
+* **নীতিমালার ভিত্তিতে**: Based on (and fully compatible with) the open standards for APIs: <a href="https://github.com/OAI/OpenAPI-Specification" class="external-link" target="_blank">OpenAPI</a> (previously known as Swagger) and <a href="https://json-schema.org/" class="external-link" target="_blank">JSON Schema</a>.
 
 <small>* estimation based on tests on an internal development team, building production applications.</small>
 
