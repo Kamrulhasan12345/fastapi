@@ -35,8 +35,8 @@
 * **দ্রুত**: খুব উচ্চতর পারফরম্যান্স, এমনকি **নোডজেএস** এবং **গো** (স্টারলেট এবং পাইডানটিককে ধন্যবাদ) এর সমানভাবে. [পাইথন ফ্রেমওয়ার্কগুলির মধ্যে একটি দ্রুত উপলব্ধ](#performance).
 
 * **কোড করতে দ্রুত**: বৈশিষ্ট্যগুলি বিকাশের গতি প্রায় ২০০% থেকে ৩০০% বৃদ্ধি করে। *
-* **কম ত্রুটিযুক্ত**: Reduce about 40% of human (developer) induced errors. *
-* **বুদ্ধিসম্পন্ন**: Great editor support. <abbr title="also known as auto-complete, autocompletion, IntelliSense">Completion</abbr> everywhere. Less time debugging.
+* **কম ত্রুটিযুক্ত**: মানুষের (বিকাশকারী) প্ররোচিত ত্রুটির প্রায় 40% হ্রাস করুন। *
+* **বুদ্ধিসম্পন্ন**: মহান সম্পাদক সমর্থন। <abbr title="আরও পরিচিত হিসেবে auto-complete, autocompletion, IntelliSense">Completion</abbr> everywhere. Less time debugging.
 * **সহজ**: Designed to be easy to use and learn. Less time reading docs.
 * **ছোট**: Minimize code duplication. Multiple features from each parameter declaration. Fewer bugs.
 * **জোরালো**: Get production-ready code. With automatic interactive documentation.
