@@ -36,11 +36,11 @@
 
 * **কোড করতে দ্রুত**: বৈশিষ্ট্যগুলি বিকাশের গতি প্রায় ২০০% থেকে ৩০০% বৃদ্ধি করে। *
 * **কম ত্রুটিযুক্ত**: মানুষের (বিকাশকারী) প্ররোচিত ত্রুটির প্রায় 40% হ্রাস করুন। *
-* **বুদ্ধিসম্পন্ন**: মহান সম্পাদক সমর্থন। <abbr title="আরও পরিচিত হিসেবে auto-complete, autocompletion, IntelliSense">Completion</abbr> everywhere. Less time debugging.
-* **সহজ**: Designed to be easy to use and learn. Less time reading docs.
-* **ছোট**: Minimize code duplication. Multiple features from each parameter declaration. Fewer bugs.
-* **জোরালো**: Get production-ready code. With automatic interactive documentation.
-* **নীতিমালার ভিত্তিতে**: Based on (and fully compatible with) the open standards for APIs: <a href="https://github.com/OAI/OpenAPI-Specification" class="external-link" target="_blank">OpenAPI</a> (previously known as Swagger) and <a href="https://json-schema.org/" class="external-link" target="_blank">JSON Schema</a>.
+* **বুদ্ধিসম্পন্ন**: মহান সম্পাদক সমর্থন। <abbr title="আরও পরিচিত হিসেবে স্বয়ংক্রিয়-পূর্ণকরণ, ইন্টেলিসেন্স বলা হয়ে থাকে">পূর্ণকরণ</abbr> সব জায়গায়. ডিবাগিঙে সময় সাশ্রয়ী.
+* **সহজ**: সহজে শিখবার এবং ব্যবহার করার জন্যই পরিকল্পিত। ডকুমেন্টারি ঘাটতে সময় সাশ্রয়ী। 
+* **ছোট**: সদৃশ কোড কমায়। একাধিক ফিচার পাওয়া যায় প্রত্যেকটি প্যারামিটার ডেকলারেশন থেকে। কম ভূল।
+* **জোরালো**: উৎপাদন-উপযোগী কোড পান। সাথে স্বয়ংক্রিয় ইন্টারেক্টিভ ডকুমেন্টেশন রয়েছে।
+* **নীতিমালার ভিত্তিতে**: এপিআইয়ের মুক্ত স্ট্যান্ডার্ডসমূহ : <a href="https://github.com/OAI/OpenAPI-Specification" class="external-link" target="_blank">ওপেনএপিআই</a> (পূর্বে সুয়েগার নামে পরিচিত) এবং <a href="https://json-schema.org/" class="external-link" target="_blank">জেএসঅন স্কেমা এর ভিত্তিতে (এবং পাশাপাশি পরিপূর্ণভাবে কমপেটিবল)।</a>.
 
 <small>* estimation based on tests on an internal development team, building production applications.</small>
 
@@ -230,7 +230,6 @@ You will see the JSON response as:
 ```JSON
 {"item_id": 5, "q": "somequery"}
 ```
-
 You already created an API that:
 
 * Receives HTTP requests in the _paths_ `/` and `/items/{item_id}`.
