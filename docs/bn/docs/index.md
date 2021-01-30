@@ -42,9 +42,9 @@
 * **জোরালো**: উৎপাদন-উপযোগী কোড পান। সাথে স্বয়ংক্রিয় ইন্টারেক্টিভ ডকুমেন্টেশন রয়েছে।
 * **নীতিমালার ভিত্তিতে**: এপিআইয়ের মুক্ত স্ট্যান্ডার্ডসমূহ : <a href="https://github.com/OAI/OpenAPI-Specification" class="external-link" target="_blank">ওপেনএপিআই</a> (পূর্বে সুয়েগার নামে পরিচিত) এবং <a href="https://json-schema.org/" class="external-link" target="_blank">জেএসঅন স্কেমা এর ভিত্তিতে (এবং পাশাপাশি পরিপূর্ণভাবে কমপেটিবল)।</a>.
 
-<small>* estimation based on tests on an internal development team, building production applications.</small>
+<small>* এই হিসাবসমূহ একটি ইন্টারনাল ডেভেলপমেন্ট সংস্থার কৃত পরীক্ষা ও উৎপাদনক্ষম অ্যাপলিকেশন বানানোর ভিত্তিতে।</small>
 
-## Gold Sponsors
+## গোল্ড স্পনসরসমূহ
 
 <!-- sponsors -->
 
@@ -56,13 +56,13 @@
 
 <!-- /sponsors -->
 
-<a href="https://fastapi.tiangolo.com/fastapi-people/#sponsors" class="external-link" target="_blank">Other sponsors</a>
+<a href="https://fastapi.tiangolo.com/fastapi-people/#sponsors" class="external-link" target="_blank">অন্যান্য স্পনসরসমূহ</a>
 
 ## মতামতসমূহ
 
-"_[...] আমি **ফাস্টএপিআই** আজকাল খুব বেশিই ব্যবহার করছি. [...] আসলে আমি এটিকে আমার দলের সকল অর্থাৎ **মাইক্রোসফট এর এমএল সুবিধাদি** এর জন্য ব্যবহারের পরিকল্পনা করছি। Some of them are getting integrated into the core **Windows** product and some **Office** products._"
+"_[...] আমি **ফাস্টএপিআই** আজকাল খুব বেশিই ব্যবহার করছি. [...] আসলে আমি এটিকে আমার দলের সকল অর্থাৎ **মাইক্রোসফট এর এমএল সুবিধাদি** এর জন্য ব্যবহারের পরিকল্পনা করছি। এগুলোর কিছু কিছু জিনিস **উইন্ডোজ** এর গুরুত্বপূর্ণ অংশে ও কিছু **অফিস** দ্রব্যাদি এর সাথে একীভূত হচ্ছে।_"
 
-<div style="text-align: right; margin-right: 10%;">Kabir Khan - <strong>Microsoft</strong> <a href="https://github.com/tiangolo/fastapi/pull/26" target="_blank"><small>(ref)</small></a></div>
+<div style="text-align: right; margin-right: 10%;">কবির খান - <strong>মাইক্রোসফট</strong> <a href="https://github.com/tiangolo/fastapi/pull/26" target="_blank"><small>(ref)</small></a></div>
 
 ---
 
